@@ -1,0 +1,11 @@
+# Node modules folder
+node_modules/
+
+# Build folder for React apps
+build/
+
+# System files
+.DS_Store
+
+# Environment files
+.env
